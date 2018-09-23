@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/royneal/eclipse-workspace/Week4/week_4/app/main.cpp
+lib.hpp
+-
+
+/home/royneal/eclipse-workspace/Week4/week_4/app/pidController.cpp
+pidController.hpp
+-
+
+include/lib.hpp
+pidController.hpp
+-
+
+include/pidController.hpp
+
