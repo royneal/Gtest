@@ -1,5 +1,5 @@
 /*
- * @copyright Royneal Rayess
+ * @copyright 2018 Royneal Rayess , Shivang Patel
  * @file test.cpp
  * @auther Royneal Rayess
  * @ver1.0.0.0
